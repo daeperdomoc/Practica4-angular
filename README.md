@@ -1,3 +1,5 @@
-#Practice for SE2
+# EXPO 4
 
-Sign in and Sign up for a User.
+Trabajo en clase realizado en workspace de cloud9 con descripcion: Exposición angular.
+
+![alt text](http://drive.google.com/uc?export=view&id=1qXIjM6hMOz5mwcua_Yk0Cc8AxEFFHd5Z)
